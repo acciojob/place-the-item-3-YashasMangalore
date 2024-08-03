@@ -1,2 +1,11 @@
 
 /* Your CSS Code here. */
+.holder{
+	display:flex;
+	justify-content:space-evenly;
+	border:1px solid black;
+	background-color:pink;
+	    flex-wrap: wrap;
+    /* justify-content: space-around; */
+
+}
